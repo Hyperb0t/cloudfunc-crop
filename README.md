@@ -24,7 +24,8 @@ Url очереди жестко закреплен в коде.
 Это происходит из-за высокого разрешения изображений.
 Например, фотография 6000x4000 точно выдаст эту ошибку.
 
-#English version
+
+# English version
 This is the source code for (yandex) cloud function.
 To create a function from this code, package pom.xml and src folder to zip archive and upload this archive as a function. 
 This function is supposed to be a trigger for file upload to object storage.
